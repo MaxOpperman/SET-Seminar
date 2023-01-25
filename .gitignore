@@ -1,0 +1,6 @@
+.idea
+.env
+out
+__pycache__
+/pickle/
+/.venv/
